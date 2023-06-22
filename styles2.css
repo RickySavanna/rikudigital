@@ -2,8 +2,8 @@
 	html {
 		--tapp-theme-primary: #1E1E1E;
 		--tapp-theme-secondary: #FFFFFF;
-		--tapp-theme-tertiary: #22A5E1;
-		--tapp-theme-quaternary: #000000;
+		--tapp-theme-tertiary: #1E1E1E;
+		--tapp-theme-quaternary: #FFFFFF;
 		--tapp-theme-quinary: #FF0050;
 		--tapp-theme-font: Poppins;
 		-webkit-font-smoothing: antialiased;
